@@ -1,0 +1,3 @@
+# Shadow-Pixel runtime dependencies
+pillow>=10.0.0
+cryptography>=42.0.0
