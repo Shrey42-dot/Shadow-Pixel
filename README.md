@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/Shrey42-dot/Shadow-Pixel)
+
 **Invisible Cryptographic Steganography using AES-256-GCM and LSB Encoding**
 
 Shadow-Pixel is a local, offline, security-focused steganography tool that allows you to hide strongly encrypted secrets inside ordinary images.
